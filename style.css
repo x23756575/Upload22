@@ -1,0 +1,48 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+.dog11{
+    display: block;
+    margin-left :auto;
+    margin-right: auto;
+    width: 25%;
+}
+#n012{
+    background-color: aqua;
+    border: solid;color: black;
+}
+p{
+   float: left;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.no13{
+    width: 600px;
+    float: center;
+    height: 90px;
+}
+p{
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size: 17px;
+}
+#ww5{
+    color: darkblue;
+    text-decoration: underline;
+    
+}
+#ww6{
+    color: darkblue;
+    text-decoration: underline;
+}
+#ww7{
+    color: darkblue;
+    text-decoration: underline
+}
+#ww8{
+    color: darkblue;
+    text-decoration: underline
+}
